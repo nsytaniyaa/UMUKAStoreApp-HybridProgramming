@@ -22,7 +22,7 @@ Aplikasi Mobile Store sederhana berbasis **React Native** dan **Expo** yang dike
 | **Local DB** | Data favorit tersimpan permanen di memori perangkat. |
 
 ### Video dan Screenshot Demo Aplikasi
-**[Klik di Sini untuk Menonton Video Demo](MASUKKAN_LINK_VIDEO_YOUTUBE_ATAU_DRIVE_DISINI)**
+**[Klik di Sini untuk Menonton Video Demo](https://drive.google.com/file/d/14BTst_g2fkPTC97jwN7_B5xa3G2IE4SQ/view?usp=sharing)**
 
 **[Klik di Sini untuk Melihat Screenshot Tampilan Pada Aplikasi Expo Go](https://drive.google.com/drive/folders/1OrluM0hvdfWfulvktJNUGbrnIn8rxy6i?usp=sharing)**
 
