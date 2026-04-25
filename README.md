@@ -24,7 +24,7 @@ Aplikasi Mobile Store sederhana berbasis **React Native** dan **Expo** yang dike
 ### Video dan Screenshot Demo Aplikasi
 **[Klik di Sini untuk Menonton Video Demo](MASUKKAN_LINK_VIDEO_YOUTUBE_ATAU_DRIVE_DISINI)**
 
-**[Klik di Sini untuk Melihat Screenshot Tampilan Pada Aplikasi Expo Go](MASUKKAN_LINK_VIDEO_YOUTUBE_ATAU_DRIVE_DISINI)**
+**[Klik di Sini untuk Melihat Screenshot Tampilan Pada Aplikasi Expo Go](https://drive.google.com/drive/folders/1OrluM0hvdfWfulvktJNUGbrnIn8rxy6i?usp=sharing)**
 
 ## Cara Menjalankan Project
 1. Clone repository ini:
